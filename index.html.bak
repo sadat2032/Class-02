@@ -1,0 +1,79 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<title>DOcument</title>
+		<body>
+			
+				<table border="1" width="1200" height="130" align="center">
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					
+					</tr>
+				
+				
+				</table>
+		<table border="1" width="1200" height="70" align="center">
+			<tr>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		
+		</table>
+		<table border="1" width="230" height="420" align="right">
+		
+			<tr>
+				<td></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+			</tr>	
+				
+		</table>
+			<table border="1" widh="220" height="430">
+				<tr>
+					<td colspan="2">1.1</td>
+				
+				
+				</tr>
+				<tr>
+					<td rowspan="2">2.1</td>
+					<td>2.2</td>
+				
+				</tr>
+				<tr>
+					<td>3.1</td>
+					
+				
+				</tr>
+			
+			
+			</table>
+			<table border="1" width="1200" height="130" align="center">
+					<tr>
+						<td></td>
+						<td></td>
+						<td></td>
+					
+					</tr>
+				
+				
+				</table>
+		
+		
+		
+		
+		
+		</body>
+	
+	
+	
+	
+	</head>
+</html>
